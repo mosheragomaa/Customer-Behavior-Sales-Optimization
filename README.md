@@ -1,4 +1,4 @@
-# Hunter Egrocery Dataset Analysis
+# Hunter E-grocery Dataset Analysis
 
 ## Overview
 This project analyzes a supermarket dataset to gain insights into customer behavior and help market owners optimize their sales and profits. 
